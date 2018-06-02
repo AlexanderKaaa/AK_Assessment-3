@@ -1,0 +1,38 @@
+/*
+    Q1 - Write a media query for desktop first.  The break point needs to be at 960px;
+*/
+@media screen and (max-width:960px) {
+	
+}
+
+
+
+
+/*
+    Q2 - Write a media query for mobile first.  The break point needs to be at 720px;
+*/
+
+ @media screen and (min-width:720px) {
+	
+}
+
+
+/*
+    Q3 - What CSS property are you having the most trouble figuring out?
+*/
+/* Float is the property that is hardest for me to figure out. It is not hard as a concept, but it always seems to find a way to break or behave in a strange way. 
+Float is the Loki of the CSS code, a trickster that can find a way to break functional code in completely unexpected ways.
+
+
+
+*/
+
+/*
+    Q4 - What is the best CSS property and why?
+*/
+
+/*
+The best CSS property is clear:  .  Because clear:both; solves so many problems that happen with the float. And allows for float to be usable in many cases.
+
+
+*/
